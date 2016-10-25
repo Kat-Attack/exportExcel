@@ -1,0 +1,27 @@
+{
+  "name": "kathy",
+  "version": "1.0.0",
+  "description": "sample excel export",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kat-Attack/exportExcel.git"
+  },
+  "dependencies": {
+    "exceljs": "^0.2.31",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1"
+  },
+  "author": "Kathy Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kat-Attack/exportExcel/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/Kat-Attack/exportExcel#readme"
+}
